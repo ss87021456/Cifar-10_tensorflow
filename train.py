@@ -131,7 +131,7 @@ for i in range(64124): #391 interation_num * 164 epoch_num
  			x: images_batch_test, y_: labels_batch_test , keep_prob: 1.0})
  		min_loss = min(_loss,min_loss)
  		max_train_accuracy = max(_accuracy,max_train_accuracy)
- 		max_test_accuracy = max(_accuracy,max_train_accuracy)
+ 		max_test_accuracy = max(_accuracy,max_test_accuracy)
  		print ("epoch num: [%d/164] training_loss:%f" % ((i/391),_loss))
  		print ("step %d, Train accuracy %g"%(i, _accuracy))
  		print ("step %d, Test accuracy %g"%(i, _accuracy_test))
