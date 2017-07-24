@@ -4,7 +4,7 @@ Implementation of original Cifar-10 paper NiN structure through tensorflow
 
 # Requirement
 Cifar-10 python dataset  
-https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz  
 Python	2.7  
 Tensorflow	1.0.1  
 Numpy	1.12.0
