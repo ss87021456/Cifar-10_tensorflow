@@ -15,7 +15,7 @@ cd Cifar-10_tensorflow
 python train.py
 
 # Result
-![result](https://user-images.githubusercontent.com/27846145/28507981-9f10617c-7069-11e7-921d-ea9c2cb219f9.jpg)
+![result](https://user-images.githubusercontent.com/27846145/28508019-0efb8bf6-706a-11e7-8e63-ae63faee7cdd.jpg)
 
 
 # Implement Device 
