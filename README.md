@@ -15,7 +15,7 @@ cd Cifar-10_tensorflow
 python train.py
 
 # Result
-https://github.com/ss87021456/Cifar-10_tensorflow/raw/master/result.jpg
+https://github.com/ss87021456/Cifar-10_tensorflow/Result.jpg
 
 # Implement Device 
 GeForce GTX 1060
