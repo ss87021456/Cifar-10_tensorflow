@@ -8,14 +8,14 @@ Tensorflow	1.0.1
 Numpy	1.12.0
 
 # Usage
-git clone https://github.com/ss87021456/Cifar-10_tensorflow  
+git clone https://github.com/ss87021456/Cifar-10_tensorflow.git  
 cd Cifar-10_tensorflow
 
 # Train
 python train.py
 
 # Result
-![image]https://github.com/ss87021456/Cifar-10_tensorflow/raw/master/Result.jpg
+![image]https://github.com/ss87021456/Cifar-10_tensorflow/blob/master/Result.jpg
 
 # Implement Device 
 GeForce GTX 1060
